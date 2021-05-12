@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #4d5699;
+    height: 100vh;
+    width: 100%;
+}
+
+button {
+    margin-top: 2%;
+    width: 10%;
+    background-color: black;
+    color: white;
+    border: 1px solid #dadada;
+    padding: .5%;
+}
+
+img {
+    border: 2px solid black;
+    max-width: 50%;
+    max-height: 50vh;
+}
+
+h1 {
+    color: #dadada;
+    text-shadow: 2px 2px black;
+}
